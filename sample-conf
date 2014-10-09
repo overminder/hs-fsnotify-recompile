@@ -1,2 +1,9 @@
-ghc Main.hs
-*.hs
+Recompilation command:
+  ghc Main.hs
+
+Directory to watch:
+  "."
+
+File globs to watch:
+  - "*.hs"
+
